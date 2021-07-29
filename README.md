@@ -28,14 +28,23 @@
 
 ## Sobre o Projeto
  Uma introdução sobre testes unitários.
+ 
+ O Teste Unitário é importante para você testar seu programa com todas as saídas possíveis e prováveis para o programa, ele pode ajudar muito testar um script, função ou até todo seu programa e assim saber se ele tem algum bug muito mais rápido do que um humano testando o programa.
+ 
+ Hoje em dia, além de ajudar o programador, os testes unitários são importantes para empresas que querem testar algo mais rápido ou depender menos dos funcionários.
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
 
- Testes unitários usando UNITTEST Python:
+- **Testes unitários usando UNITTEST(Python):**
 
-- [Indisponivel](https://github.com/andreluispy/unittest)
+  ### Conteudo:
+
+  Aprenda a criar os principais tipos de testes unitários que a lib unittest pode fazer
+
+  - [1 - Introdução](conteudo/unittest/1%20-%20Introdução.md)
+  - [2 - Testes de Igualdade](conteudo/unittest/2%20-%20exemplos.md)
   
   
 <!-- CONTRIBUTING -->
