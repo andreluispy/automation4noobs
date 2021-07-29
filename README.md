@@ -45,6 +45,8 @@
 
   - [1 - Introdução](conteudo/unittest/1%20-%20Introdução.md)
   - [2 - Testes de Igualdade](conteudo/unittest/2%20-%20exemplos.md)
+  - [3 - Teste Bool + CLI](conteudo/unittest/3%20-%20bool+cli.md)
+  - [4 - Skips](conteudo/unittest/4%20-%20skips.md)
   
   
 <!-- CONTRIBUTING -->
