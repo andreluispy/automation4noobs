@@ -9,7 +9,7 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">UNITTEST4NOOBS</h2>
+  <h2 align="center">AUTOMATION4NOOBS</h2>
 
   <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
   
@@ -27,11 +27,13 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
- Uma introdução sobre testes unitários.
+ Uma introdução sobre Automação.
  
  O Teste Unitário é importante para você testar seu programa com todas as saídas possíveis e prováveis para o programa, ele pode ajudar muito testar um script, função ou até todo seu programa e assim saber se ele tem algum bug muito mais rápido do que um humano testando o programa.
  
  Hoje em dia, além de ajudar o programador, os testes unitários são importantes para empresas que querem testar algo mais rápido ou depender menos dos funcionários.
+ 
+ A automação é importante para evitar erros e deixar processos repetitivos mais rápidos!
 
 <!-- ROADMAP OF PROJECT -->
 
