@@ -10,8 +10,6 @@
 
 <p align="center">
   <h2 align="center">AUTOMATION4NOOBS</h2>
-
-  <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
     <br />
